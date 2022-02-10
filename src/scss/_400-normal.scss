@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Golos Text';
+    src: local('Golos Text Regular'), local('GolosText-Regular'),
+    url('../../fonts/golos-text-400-normal.woff2') format('woff2'),
+    url('../../fonts/golos-text-400-normal.woff') format('woff'),
+    url('../../fonts/golos-text-400-normal.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
